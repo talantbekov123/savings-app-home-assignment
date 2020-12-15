@@ -58,7 +58,6 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 
-
 .label {
     margin-left: 7px;
   position: block;

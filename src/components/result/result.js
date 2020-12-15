@@ -1,7 +1,3 @@
-
-
-
-
 import styled from 'styled-components';
 
 const StyledResult = styled.div`

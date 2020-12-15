@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { StyledInput } from '../../styledComponents/index.js';
 
