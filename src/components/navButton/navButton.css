@@ -1,0 +1,22 @@
+.navButton {
+    width: 400px;
+    height: 50px;
+}
+
+.title {
+    display: block;
+    position: block;
+    text-align: center;
+    margin-top: 19px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #2F80ED;
+}
+
+.icon {
+    position: absolute;
+    color: #828282;
+    padding-left: 40px;
+    top: 19px;
+}
